@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmtkrl&label=Profile%20views&color=0e75b6&style=plastic" alt="mhmtkrl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmtkrl" alt="mhmtkrl" /></a> </p>
-
 - 🌱 I’m currently learning **Design patterns, Test-Driven Development, Model-Based SW Design**
 
 - 👨‍💻 All of my projects are available at [https://www.mehmetkoral.com](https://www.mehmetkoral.com)
